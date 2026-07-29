@@ -2,7 +2,9 @@
 
 BudgetWise is a full-stack web application for personal finance management with collaborative trip expense sharing.
 
-> **Project origin:** This codebase was adapted from the public FinPulse repository by Laluprasad1. The original source is `https://github.com/Laluprasad1/FinPulse`. Keep this attribution when publishing or presenting the project, and describe the features you personally changed. No license file was present in the uploaded archive, so check the original repository's current licensing terms before public redistribution.
+> **Project note:** BudgetWise is a customized personal-finance application.
+> Additional project information is available in
+> [`ATTRIBUTION.md`](ATTRIBUTION.md).
 
 It includes:
 - Personal income and expense tracking
